@@ -1,0 +1,14 @@
+{
+    "compilerOptions": { 
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "out": "www/js/all.js",
+        "target": "es5"
+    },
+    "files": [
+        "index.ts",
+        "ViewModels/orchestrator.ts"
+    ]
+}
